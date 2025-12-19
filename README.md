@@ -198,3 +198,23 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## Related Repositories
+
+- **Backend Repository**: [ParkEASE_BE](https://github.com/kangxxie/ParkEASE_BE) - SpringBoot REST API
+
+## License
+
+This project is part of an academic examination project.
+
+---
+
+**Note**: This frontend application is designed to work in conjunction with the ParkEASE backend application. Ensure both applications are properly configured and running for full system functionality.
