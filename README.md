@@ -1,6 +1,9 @@
 # ParkEASE - Frontend
 
 > A modern, intelligent parking management system that simplifies urban parking through real-time spot availability, seamless reservations, and digital ticket validation.
+> ![alt text](images/image.png)
+> ![alt text](images/image-1.png)
+> ![alt text](images/image-2.png)
 
 ## Project Overview
 
